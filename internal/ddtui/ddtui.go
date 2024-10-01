@@ -1,3 +1,0 @@
-package ddtui
-
-var VERSION = "0.0.1"
